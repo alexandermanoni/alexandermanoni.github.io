@@ -2,7 +2,12 @@
 
 export default function Contact() {
   return (
-    <div>
+    <div className="space-y-4">
+      <div className="
+        text-xl antialiased font-medium
+      ">
+        Contact
+      </div>
       <form>
         <label htmlFor="email">Email: </label><br />
         <input type="email" id="email" pattern=".+@example\.com" required /><br />

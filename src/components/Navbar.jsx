@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <div className="
       h-36
-      bg-amber-500
+      bg-brightOrange
       size-full
       flex
       justify-center
