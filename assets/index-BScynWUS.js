@@ -100,8 +100,7 @@ Please change the parent <Route path="${M}"> to <Route path="${M==="/"?"*":`${M}
           shadow-md\r
         `,children:"Hi, I am Peter Udaya! I am a drummer in the band BAND_HERE. I have been playing for over 10 years. In highschool I was the drum captain for two years, playing snare for three."})]})}function Mm(){return Q.jsxs("div",{className:`\r
       mx-auto\r
-      lg:w-128\r
-      md:w-64\r
+      w-full lg:w-1/3\r
       cursor-default\r
       space-y-4\r
       pt-4\r
