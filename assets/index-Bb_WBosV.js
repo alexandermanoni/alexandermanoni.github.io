@@ -100,11 +100,12 @@ Please change the parent <Route path="${M}"> to <Route path="${M==="/"?"*":`${M}
           shadow-md\r
         `,children:"Hi, I am Peter Udaya! I am a drummer in the band BAND_HERE. I have been playing for over 10 years. In highschool I was the drum captain for two years, playing snare for three."})]})}function Mm(){return Q.jsxs("div",{className:`\r
       mx-auto\r
-      w-[650px]\r
+      lg:w-128\r
+      md:w-64\r
       cursor-default\r
       space-y-4\r
       pt-4\r
-      pb-4\r
+      pb-4      \r
     `,children:[Q.jsx("div",{className:`\r
         text-2xl antialiased font-semibold\r
       `,children:"Peter's Drum Lessons"}),Q.jsx(Dm,{}),Q.jsx(Tm,{}),Q.jsx(_m,{})]})}const zm=hm([{path:"/",element:Q.jsx(Nm,{}),children:[{path:"/",element:Q.jsx(Mm,{})}]}]);kp.createRoot(document.getElementById("root")).render(Q.jsx(T.StrictMode,{children:Q.jsx(Lm,{router:zm})}));
