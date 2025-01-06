@@ -70,14 +70,14 @@ Please change the parent <Route path="${M}"> to <Route path="${M==="/"?"*":`${M}
       `,children:ue.jsxs("div",{className:"flex",children:[ue.jsxs("div",{className:"w-2/3",children:[ue.jsx("div",{className:`\r
               text-l font-medium\r
             `,children:"Marching Snare Lessons"}),ue.jsxs("div",{className:"flex",children:[ue.jsxs("div",{className:"w-1/2 list-disc",children:[ue.jsx("li",{className:"font-medium",children:"30 minutes"}),ue.jsx("li",{className:"font-medium",children:"$30/lesson"})]}),ue.jsx("div",{className:"w-1/2",children:"Learn about marching snare technique!"})]})]}),ue.jsx("div",{className:`\r
-            w-1/3`,children:ue.jsx("img",{src:"../../../../ref/marchingsnare.jpg",alt:"marching snaredrum"})})]})}),ue.jsx("div",{className:`\r
+            w-1/3`,children:ue.jsx("img",{src:"marchingsnare.jpg",alt:"marching snaredrum"})})]})}),ue.jsx("div",{className:`\r
         p-3\r
         shadow-md\r
         bg-gray-100 rounded-md\r
       `,children:ue.jsxs("div",{className:"flex",children:[ue.jsxs("div",{className:"w-2/3",children:[ue.jsx("div",{className:`\r
               text-l font-medium\r
             `,children:"Drum Kit Lessons"}),ue.jsxs("div",{className:"flex",children:[ue.jsxs("div",{className:"w-1/2 list-disc",children:[ue.jsx("li",{className:"font-medium",children:"45 minutes"}),ue.jsx("li",{className:"font-medium",children:"$35/lesson"})]}),ue.jsx("div",{className:"w-1/2",children:"Learn to Play Rock Drumming on a DW Design Mini Pro 4-Piece Kit!"})]})]}),ue.jsx("div",{className:`\r
-            w-1/3`,children:ue.jsx("img",{src:"../../../../ref/kit.webp",alt:"drumkit"})})]})})]})}function Dm(){return ue.jsxs("div",{className:`\r
+            w-1/3`,children:ue.jsx("img",{src:"kit.webp",alt:"drum kit"})})]})})]})}function Dm(){return ue.jsxs("div",{className:`\r
       space-y-4\r
     `,children:[ue.jsx("div",{className:`\r
           flex max-w-fit\r
